@@ -1,0 +1,7 @@
+﻿  Dice.cpp
+  Farkle.cpp
+C:\Users\cohen\Documents\IT-312\Farkle\Farkle\Farkle.cpp(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+  Player.cpp
+  Generating Code...
+  Farkle.vcxproj -> C:\Users\cohen\Documents\IT-312\Farkle\x64\Debug\Farkle.exe
