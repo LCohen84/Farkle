@@ -2,7 +2,7 @@
 //
 
 // London Cohen IT-312
-// 4/21/2024 
+// 4/21
 // 7-1 Final Project Farkle 
 
 #include "Dice.h"
